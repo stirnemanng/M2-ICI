@@ -2,4 +2,3 @@ tqdm
 numpy
 scipy 
 matplotlib
-random
